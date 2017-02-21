@@ -1,0 +1,12 @@
+.nice-div {
+	height: 50px;
+	width: 50px;
+	background-color: blue;
+}
+
+#cool_id {
+	height: 100px;
+	width: 100px;
+	border-radius: 50px;
+	background-color: red;
+}
